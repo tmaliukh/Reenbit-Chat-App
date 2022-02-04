@@ -1,0 +1,60 @@
+{
+  "usersData": [
+    {
+      "id": 1,
+      "name": "Alice Freeman",
+      "dateOfJoin": "2018-05-14",
+      "image": "images/1.png",
+      "isActive": false,
+      "hasNewMsg": false,
+      "lastMsgTime": 1643985759328,
+      "myMsg": [
+        {
+          "text": "Hello",
+          "isSenderMe": true,
+          "time": 1643985759328
+        }
+      ],
+      "generatedMsg": [
+        {
+          "text": "A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.",
+          "isSenderMe": false,
+          "time": 1643985760179
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Josefina",
+      "dateOfJoin": "2019-10-04",
+      "image": "images/5.png",
+      "isActive": false,
+      "hasNewMsg": false,
+      "lastMsgTime": 1643984566386,
+      "myMsg": [],
+      "generatedMsg": []
+    },
+    {
+      "id": 3,
+      "name": "Velazquez",
+      "dateOfJoin": "2017-08-25",
+      "image": "images/2.png",
+      "isActive": false,
+      "hasNewMsg": false,
+      "lastMsgTime": 1643984544959,
+      "myMsg": [],
+      "generatedMsg": []
+    },
+    {
+      "id": 4,
+      "name": "Barrera",
+      "dateOfJoin": "2019-02-03",
+      "image": "images/3.png",
+      "isActive": false,
+      "hasNewMsg": false,
+      "lastMsgTime": 1643984569348,
+      "myMsg": [],
+      "generatedMsg": []
+    }
+  ]
+}
